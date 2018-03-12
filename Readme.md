@@ -1,6 +1,7 @@
 QCView-G4
 ===================================
 
+Long time since I've had a G4 but maclyn actually made some real changes check it out here https://github.com/maclyn/QCView-G4
 Quick Circle for AOSP based Roms by BigBoot modified to work on the G4 correctly.
 
 I am not a developer, BigBoot made this possible and has even created an update that allows the y-axis to be offset specifically so we can use this on the G4 - all I've done is push a change with the correct y-axis offset for a G4 build.
